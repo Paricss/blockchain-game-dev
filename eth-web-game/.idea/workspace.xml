@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c620879a-0f1b-472d-a741-d071bc638401" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/migrations/2_deploy_token.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/14.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/15.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/16.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/17.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/18.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Assets/Tiles/9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/StateCache/Hierarchy/59df6e-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/StateCache/Hierarchy/59df6e-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/StateCache/SceneView/c6cbe1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/StateCache/SceneView/c6cbe1-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazingGame/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazingGame/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642265702089</updated>
-      <workItem from="1642265703324" duration="12860000" />
+      <workItem from="1642265703324" duration="13985000" />
     </task>
     <servers />
   </component>
